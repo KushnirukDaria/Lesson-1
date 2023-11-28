@@ -11,6 +11,7 @@
     <url>https://maven.apache.org/</url>
 
     <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <jdk.version>17</jdk.version>
         <jre.version>${jdk.version}</jre.version>
         <maven.compiler.source>${jdk.version}</maven.compiler.source>
